@@ -6,7 +6,7 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #3f3e3e;
   color: #f9f7f7;
-  background-image: url("/assets/inspirational-bg.jpg");
+  background-image: url("./assets/inspirational-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
